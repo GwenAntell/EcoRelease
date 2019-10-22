@@ -5,10 +5,15 @@ This repository contains all data and code necessary to run the analyses and pro
 
 Data S1: Spreadsheet of unique spatio-temporal occurrences of brachiopod and bivalve species across
 the Phanerozoic.
+
 Data S2: Lithochronology chart for northwest Atlantic geologic units.
+
 Data S3: Raster of water depth conditions for each Phanerozoic time bin.
+
 Data S4: Raster of substrate conditions for each Phanerozoic time bin.
+
 Data S5: Phanerozoic occurrence data subsampled in the assemblage framework.
+
 Data S6: Phanerozoic occurrence data subsampled in the taxon-tracking framework.
 
 /R
